@@ -1,4 +1,13 @@
-This is for Tokopedia Software Engineer - Web - FE test, and here are what you need to do to get through this project :
+This exercise is designed to demonstrate your web development skills. Write a simple application that given a number of rupiahs will calculate the minimum number of rupiahs needed to make that amount 
+
+15000 = 1 x Rp10000, 1x Rp5000
+Rp3900 = 1x Rp2000, 1x Rp1000, 1x Rp500, 4x Rp100
+12510 = 1 x Rp10000, 1x Rp2000, 1x Rp500, left Rp10 (no available fraction)
+
+Examples of valid inputs with their canonical equivalents 18.215 (18215), Rp17500 (17500), Rp17.500,00 (17500), Rp 120.325 (120325), 005.000 (5000), 001000 (1000)
+
+Examples of invalid inputs: 17,500 (invalid separator),  2 500(invalid separator), 3000 Rp (valid character in wrong position), Rp (missing value)
+
 
 ## Available Scripts
 
