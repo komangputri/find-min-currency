@@ -1,0 +1,35 @@
+.bg-shadow {
+    border: 1px solid lightgray;
+    box-shadow: 0px 0px 5px 0px darkgrey;
+    border-radius: 3px;
+    padding: 15px;
+    margin: 20px auto;
+}
+
+input {
+    border-radius: 20px;
+    outline: none;
+    border: 1px solid lightgray;
+    padding: 10px;
+    box-shadow: 0px 0px 5px 0px darkgrey;
+    width: 40%;
+}
+
+button.btn {
+    color: #fff!important;
+    background-color: #42b549;
+    border: 1px solid #42b549;
+    padding: 5px 30px;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+
+.leftTxt {
+    color: gray;
+    margin-top: 10px;
+}
+
+.errTxt {
+    color: red;
+    margin-top: 10px;
+}
